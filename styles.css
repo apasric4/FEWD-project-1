@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: lightblue;
 }
 /* Link Styles */
 
@@ -74,7 +74,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.6) rotate(15deg);
 }
 .tag {
   background-color: #efefef;
@@ -205,4 +205,10 @@ a.social:hover {
 .card-title {
   text-align: center;
   border: 3px solid black;
+  border-radius: 3px 10px;
+}
+.uwo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
