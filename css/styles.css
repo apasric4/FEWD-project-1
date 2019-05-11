@@ -208,8 +208,18 @@ a.social:hover {
   border-radius: 3px 10px;
 
 }
-.uwo{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
+.toronto {
+  width: 400px;
+  height: 200px;
+}
+
+.tech-workers{
+  width: 350px;
+  height: 200px;
+}
+
+.interest-pics {
+  width: 350px;
+  height: 200px;
 }
